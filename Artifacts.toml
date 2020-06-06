@@ -1,0 +1,10 @@
+[[Darknet_CUDA]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a0567812f078322de5fd6b6617021ce0fd5e5800"
+libc = "glibc"
+os = "linux"
+
+    [[Darknet_CUDA.download]]
+    sha256 = "b2dddc9082533d7583c3772acbd147579782051c909c025bc92a1dee982f7f09"
+    url = "https://github.com/JuliaBinaryWrappers/Darknet_CUDA_jll.jl/releases/download/Darknet_CUDA-v2020.6.5+0/Darknet_CUDA.v2020.6.5.x86_64-linux-gnu-cxx11.tar.gz"
